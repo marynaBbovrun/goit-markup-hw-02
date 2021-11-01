@@ -1,0 +1,40 @@
+body {
+    color:#757575 ;
+    background-color: #FFFFFF;
+    
+}
+
+.list {
+    list-style: none;
+}
+
+/* site nav */
+.site-nav a {
+    color:#2196F3 ;
+}
+.site-nav a:hover {
+    color: #000;
+}
+site-nav a:focus {
+    color: #000;
+}
+.section-title {
+    color:#212121 ;
+}
+/* hero */
+.hero-title {
+    color:#FFFFFF ;
+}
+ /* feature */
+.feature .title {
+    color:212121 ;
+}
+
+
+
+/* основной текст  color: #757575 */
+/* вторичний текст  color: #212121 */
+/* виделения  #2196F3 */
+/* бедий  color: #FFFFFF */
+/* вторичний цвет фона  #2F303A */
+/* вторичний цвет фона а  #F5F4FA */
